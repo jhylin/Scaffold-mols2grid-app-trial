@@ -1,4 +1,11 @@
+**Latest update 9/8/2023**
+
+A new web app has been built with the similar concept as stated previously - code repository here: https://github.com/jhylin/Molviz_app
+
+---
+
 **Current project summary from 12/7/2023**:
+
 Latest brainstorming idea was to change this project from purely on molecular scaffolds to using Datamol's visualisation function, Lasso highlighting (if this part works, then the CircleGrid function may be added in the future).
 
 This hopefully will bring together RDKit, Datamol and Shiny in Python to build a molecular visualisation application to highlight molecular substructures from data inputs such as SMILES or SMARTS strings.
