@@ -1,22 +1,14 @@
-**Latest update 9/8/2023**:
+**Latest update on 9/8/2023**:
 
-A new web app has been built with the similar concept as stated previously - code repository here: https://github.com/jhylin/Molviz_app
+This repository will be archived as a new molecular visualisation web app has been built instead with the similar purpose in mind - code repository here: https://github.com/jhylin/Molviz_app
 
----
+**Project summary from 12/7/2023**:
 
-Old project summary from 12/7/2023:
+Latest brainstorming idea was to change this project from purely on molecular scaffolds to using Datamol's visualisation function e.g. lasso highlighting. This hopefully will bring together RDKit, Datamol and Shiny in Python to build a molecular visualisation application to highlight molecular substructures from data inputs such as SMILES or SMARTS strings.
 
-Latest brainstorming idea was to change this project from purely on molecular scaffolds to using Datamol's visualisation function, Lasso highlighting (if this part works, then the CircleGrid function may be added in the future).
+**Project summary prior to 12/7/2023**:
 
-This hopefully will bring together RDKit, Datamol and Shiny in Python to build a molecular visualisation application to highlight molecular substructures from data inputs such as SMILES or SMARTS strings.
-
-This project is currently a work-in-progress only.
-
----
-
-Old project summary prior to 12/7/2023:
-
-*Based on the idea of using mols2grid library and RDKit mainly***
+*Based on the idea of using mols2grid library and RDKit mainly*
 
 This project is currently pending further progress from shinywidgets team regarding mols2grid package initialisation (or other solutions) as an [issue](https://github.com/rstudio/py-shinywidgets/issues/55) has been raised in their repository. Further work is likely only possible if there are changes to the issue raised at this point.
 
